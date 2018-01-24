@@ -6,7 +6,7 @@ All statements starts as "Code B" in this file
 
 1. Code Duo
 2. Code Duo
-3. Code B
+3. Code Duo
 4. Code B
 5. Code B
 6. Code B
